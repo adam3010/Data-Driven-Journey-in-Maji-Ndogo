@@ -1,5 +1,5 @@
 # Data-Driven-Journey-in-Maji-Ndogo
-the project goal: solve water problems in Maji Ndogo
+Project goal: solve water problems in Maji Ndogo
 
 # Part 1 
 1- get to know our data
